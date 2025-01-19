@@ -13,9 +13,6 @@ defineProps({
     default: false,
   }
 })
-
-// Debug to confirm the data structure
-console.log(jobs.value);
 </script>
 
 <template>
