@@ -167,34 +167,6 @@
         "contactEmail": "jorimogo@mailinator.com",
         "contactPhone": "+1 (633) 825-5184"
       }
-    },
-    {
-      "id": "28fd",
-      "title": "Tanner Horne",
-      "type": "Full-Time",
-      "location": "Ut repudiandae sint ",
-      "description": "Soluta vel quam magn",
-      "salary": "$175K - $200K",
-      "company": {
-        "name": "Ewing and Brady Co",
-        "description": "In quis qui quam con",
-        "contactEmail": "ravywyhyr@mailinator.com",
-        "contactPhone": "+1 (321) 554-2623"
-      }
-    },
-    {
-      "id": "dd7e",
-      "title": "Macy Holt",
-      "type": "Remote",
-      "location": "Ut quia aut eu et si",
-      "description": "Iure non eligendi ve",
-      "salary": "$150K - $175K",
-      "company": {
-        "name": "Frost Sosa Co",
-        "description": "Consectetur pariatu",
-        "contactEmail": "cojexicuwy@mailinator.com",
-        "contactPhone": "+1 (432) 569-2539"
-      }
     }
   ]
 }
