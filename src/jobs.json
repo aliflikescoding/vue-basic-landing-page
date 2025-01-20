@@ -181,6 +181,20 @@
         "contactEmail": "ravywyhyr@mailinator.com",
         "contactPhone": "+1 (321) 554-2623"
       }
+    },
+    {
+      "id": "dd7e",
+      "title": "Macy Holt",
+      "type": "Remote",
+      "location": "Ut quia aut eu et si",
+      "description": "Iure non eligendi ve",
+      "salary": "$150K - $175K",
+      "company": {
+        "name": "Frost Sosa Co",
+        "description": "Consectetur pariatu",
+        "contactEmail": "cojexicuwy@mailinator.com",
+        "contactPhone": "+1 (432) 569-2539"
+      }
     }
   ]
 }
